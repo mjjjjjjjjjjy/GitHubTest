@@ -5,4 +5,7 @@ package com.example.githubtest;
 */
 public class V1 {
 
+    public static void main(String[] args) {
+        System.out.println("");
+    }
 }
